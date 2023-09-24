@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>Munume</title>
-        <link>https://munume.github.io</link>
+        <link>https://munume.github.io/blog.github.io</link>
         <description>好难，还没改完T^T</description>
         <language>zh-Hans</language>
         <pubDate>Sat, 23 Sep 2023 23:47:37 +0800</pubDate>
@@ -10,9 +10,9 @@
         <category>PS3</category>
         <category>Games</category>
         <item>
-            <guid isPermalink="true">https://munume.github.io/2023/09/23/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</guid>
+            <guid isPermalink="true">https://munume.github.io/blog.github.io/2023/09/23/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</guid>
             <title>个人介绍</title>
-            <link>https://munume.github.io/2023/09/23/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</link>
+            <link>https://munume.github.io/blog.github.io/2023/09/23/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</link>
             <category>PS3</category>
             <category>Games</category>
             <pubDate>Sat, 23 Sep 2023 23:47:37 +0800</pubDate>
@@ -62,9 +62,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://munume.github.io/2023/09/23/hello-world/</guid>
+            <guid isPermalink="true">https://munume.github.io/blog.github.io/2023/09/23/hello-world/</guid>
             <title>Hello World</title>
-            <link>https://munume.github.io/2023/09/23/hello-world/</link>
+            <link>https://munume.github.io/blog.github.io/2023/09/23/hello-world/</link>
             <pubDate>Sat, 23 Sep 2023 23:39:42 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;第一次使用 Github，也是第一次写自己的博客，好激动！&lt;/p&gt;
 &lt;h2 id=&#34;quick-start&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#quick-start&#34;&gt;#&lt;/a&gt; Quick Start&lt;/h2&gt;

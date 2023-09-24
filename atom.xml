@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://munume.github.io</id>
+    <id>https://munume.github.io/blog.github.io</id>
     <title>Munume</title>
-    <link href="https://munume.github.io" />
+    <link href="https://munume.github.io/blog.github.io" />
     <updated>2023-09-23T15:47:37.621Z</updated>
     <category term="PS3" />
     <category term="Games" />
     <entry>
-        <id>https://munume.github.io/2023/09/23/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</id>
+        <id>https://munume.github.io/blog.github.io/2023/09/23/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</id>
         <title>个人介绍</title>
-        <link rel="alternate" href="https://munume.github.io/2023/09/23/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+        <link rel="alternate" href="https://munume.github.io/blog.github.io/2023/09/23/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
         <content type="html">&lt;h3 id=&#34;基本信息&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#基本信息&#34;&gt;#&lt;/a&gt; 基本信息：&lt;/h3&gt;
 &lt;blockquote&gt;
 &lt;p&gt;伞倾掩笑语，花落染素裳	--DH&lt;/p&gt;
@@ -59,9 +59,9 @@
         <updated>2023-09-23T15:47:37.621Z</updated>
     </entry>
     <entry>
-        <id>https://munume.github.io/2023/09/23/hello-world/</id>
+        <id>https://munume.github.io/blog.github.io/2023/09/23/hello-world/</id>
         <title>Hello World</title>
-        <link rel="alternate" href="https://munume.github.io/2023/09/23/hello-world/"/>
+        <link rel="alternate" href="https://munume.github.io/blog.github.io/2023/09/23/hello-world/"/>
         <content type="html">&lt;p&gt;第一次使用 Github，也是第一次写自己的博客，好激动！&lt;/p&gt;
 &lt;h2 id=&#34;quick-start&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#quick-start&#34;&gt;#&lt;/a&gt; Quick Start&lt;/h2&gt;
 &lt;h3 id=&#34;create-a-new-post&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#create-a-new-post&#34;&gt;#&lt;/a&gt; Create a new post&lt;/h3&gt;
